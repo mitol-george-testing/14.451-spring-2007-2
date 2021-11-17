@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Macroeconomic Theory I",
+  "course_description": "Introduction to the theories of economic growth. Topics will include basic facts of economic growth and long-run economic development; brief overview of optimal control theory and dynamic programming; basic neoclassical growth model under a variety of market structures; human capital and economic growth; endogenous growth models; models with endogenous technology; models of directed technical change; competition, market structure and growth; financial and economic development; international trade and economic growth; institutions and economic development. This is a half-term subject. The class size is limited.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.451",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
